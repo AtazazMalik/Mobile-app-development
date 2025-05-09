@@ -1,2 +1,1 @@
-# Mobile-app-development
-This is my journey of learning mobile app development of using flutter 
+# Lab 8 - Flutter Project
